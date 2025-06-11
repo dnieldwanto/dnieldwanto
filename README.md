@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel
 
-I'm a Software Developer, especially Back End Developer. I have skills Java programming language using the Spring Boot and Quarkus, and Javascript using NodeJS (Express JS) and don't forget basic concepts such as fundamentals, Object Oriented Programming (OOP), data structures. I'm a person who likes challenges, so I don't mind if there are new things.
+I'm a Backend Developer. I have skills Java programming language using the Spring Boot and Quarkus, and Javascript using NodeJS (Express JS) and don't forget basic concepts such as fundamentals, Object Oriented Programming (OOP), data structures. I'm a person who likes challenges, so I don't mind if there are new things.
 
 ---
 
